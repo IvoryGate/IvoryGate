@@ -1,3 +1,14 @@
+<div style="display: flex; align-items: center; justify-content: center; margin: 10px">
+        <img
+          align=center
+          src="https://img.shields.io/github/stars/IvoryGate?style=flat&logoColor=%231677ff&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)"
+          style="margin: 0 5px"
+        /><img
+          align=center
+          src="https://img.shields.io/github/followers/IvoryGate?style=flat&logoColor=%231677ff&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)""
+          style="margin: 0 5px"
+        />
+      </div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=IvoryGate" />
 </a>

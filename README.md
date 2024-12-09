@@ -1,3 +1,6 @@
+<a href="https://github.com/IvoryGate" target="_blank"><img  align=center src="https://img.shields.io/badge/github-IvoryGate-%23fbfbfb?style=flat"/></a>
+<a href="https://blog.jianjiaj.cn" target="_blank"><img  align=center src="https://img.shields.io/badge/blog-汴兮阁-%23fbfbfb?style=flat"/></a>
+<a href="https://space.bilibili.com/557074997?spm_id_from=333.1007.0.0" target="_blank"><img  align=center src="https://img.shields.io/badge/bilibili-风驻云不归-%23fbfbfb?style=flat"/></a>
 <div style="display: flex; align-items: center; justify-content: center; margin: 10px">
         <img
           align=center

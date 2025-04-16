@@ -8,10 +8,11 @@
           style="margin: 0 5px"
         /><img
           align=center
-          src="https://img.shields.io/github/followers/IvoryGate?style=flat&logoColor=%231677ff&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)""
+          src="https://img.shields.io/github/followers/IvoryGate?style=flat"
           style="margin: 0 5px"
         />
       </div>
+</br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=IvoryGate&card_width=200" />
 </a>

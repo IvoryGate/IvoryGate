@@ -37,6 +37,13 @@
 ## My Tech Stack
 
 <p align="center">
+  <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=rect&fontColor=7AA2F7&height=30&color=00000000&text=Let's%20be%20real%20—%20I%20barely%20know%20the%20first%20thing%20about%20these%20technologies;&fontSize=16&fontAlignY=50&font=JetBrains+Mono" />
+    <br>
+    <img src="https://capsule-render.vercel.app/api?type=rect&fontColor=7AA2F7&height=30&color=00000000&text=I've%20just%20dabbled%20in%20them%20a%20little%20bit%20on%20and%20off.&fontSize=16&fontAlignY=50&font=JetBrains+Mono" />
+    <br>
+    <img src="https://capsule-render.vercel.app/api?type=rect&fontColor=7AA2F7&height=30&color=00000000&text=Fingers%20crossed%20I'll%20actually%20fully%20master%20them%20someday!&fontSize=16&fontAlignY=50&font=JetBrains+Mono" />
+  </p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />

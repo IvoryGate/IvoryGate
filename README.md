@@ -25,10 +25,10 @@
 
 <p>
   <a href="https://github.com/IvoryGate">
-    <img src="https://github-stats.ubrong.com/api?username=IvoryGate&show_icons=true&theme=tokyonight" height="165" />
+    <img src="https://github-stats.ubrong.com/api?username=IvoryGate&show_icons=true&theme=default" height="165" />
   </a>
   <a href="https://github.com/IvoryGate">
-    <img src="https://github-stats.ubrong.com/api/top-langs/?username=IvoryGate&layout=compact&theme=tokyonight&langs_count=8" height="165" />
+    <img src="https://github-stats.ubrong.com/api/top-langs/?username=IvoryGate&layout=compact&theme=default&langs_count=8" height="165" />
   </a>
 </p>
 
